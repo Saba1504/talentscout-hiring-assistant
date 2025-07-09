@@ -151,3 +151,11 @@ The chatbot maintains context through:
 - Added error handling and recovery
 - Created a responsive chat interface
 
+## Future Enhancements
+Export collected candidate data to JSON/CSV
+
+Admin dashboard to review conversations
+
+Integration with LLMs like GPT-4 for dynamic follow-up questions
+
+Resume upload + parsing capabilities
