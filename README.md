@@ -1,7 +1,6 @@
 # talentscout-hiring-assistant
-# 🤖 TalentScout AI Hiring Assistant
 
-## 📌 Project Overview
+##  Project Overview
 
 **TalentScout AI Hiring Assistant** is an interactive chatbot built with **Streamlit**, designed to streamline the **initial screening process** in technical recruitment. It collects candidate information conversationally and generates **3–5 relevant technical questions** based on the candidate’s tech stack.
 
@@ -9,7 +8,7 @@ This tool helps recruiters automate the early hiring stage while maintaining a s
 
 ---
 
-## ⚙️ Installation Instructions
+##  Installation Instructions
 
 ### 1. Clone the repository
 ```bash
@@ -37,7 +36,7 @@ The chatbot interface will launch in your default web browser.
 
 ---
 
-## 🧑‍💻 Usage Guide
+##  Usage Guide
 
 Once the app is running:
 
@@ -56,7 +55,7 @@ Once the app is running:
 
 ---
 
-## 🛠️ Technical Details
+##  Technical Details
 
 - **Language:** Python 3.x
 - **Framework:** Streamlit
@@ -69,7 +68,7 @@ Once the app is running:
 
 ---
 
-## ✍️ Prompt Design
+##  Prompt Design
 
 Prompts are designed to guide users clearly and politely. Strategies include:
 
@@ -79,7 +78,7 @@ Prompts are designed to guide users clearly and politely. Strategies include:
 
 ---
 
-## 🚧 Challenges & Solutions
+##  Challenges & Solutions
 
 | Challenge | Solution |
 |----------|----------|
@@ -90,7 +89,7 @@ Prompts are designed to guide users clearly and politely. Strategies include:
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 - Resume upload and parsing
 - Admin dashboard for recruiters
